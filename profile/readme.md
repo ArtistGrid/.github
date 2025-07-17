@@ -23,7 +23,9 @@
   <code><img width="40" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" /></code>
   <code><img width="40" src="https://cdn.simpleicons.org/cloudflare/F38020" alt="Cloudflare" title="Cloudflare" /></code>
 </div>
+
 ---
+
 Disclaimer: We are not affiliated with or endorsed by TrackerHub, Google, Cloudflare, or any of the artists featured on our website.
 We do not host or distribute unreleased/leaked music. All content referenced is publicly available and can be found via the linked <a href="https://docs.google.com/spreadsheets/d/1zoOIaNbBvfuL3sS3824acpqGxOdSZSIHM8-nI9C-Vfc/htmlview">Google Sheet</a>.
 ###
