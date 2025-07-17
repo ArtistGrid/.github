@@ -12,6 +12,12 @@
 
 ---
 
+## Contribution
+
+If you have any contributions to make, such as replacing a broken tracker or changing a bad image of an artist please feel free to <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request">open a pull request</a>. All support is appreciated.
+
+---
+
 ## Stack / Tech Used
 <div align="left">
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" /></code>
