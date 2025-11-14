@@ -7,7 +7,7 @@
 |-|-|-|
 |Main Site| [artistgrid.cx](https://artistgrid.cx)|Main Website|
 |Dev Previews|[dev.artistgrid.cx](https://dev.artistgrid.cx)|Preview of upcoming features and updates|
-|Sheets API (WIP)|[sheets.artistgrid.cx](https://sheets.artistgrid.cx)|API that pulls from <a href="https://docs.google.com/spreadsheets/d/1zoOIaNbBvfuL3sS3824acpqGxOdSZSIHM8-nI9C-Vfc/htmlview">TrackerHub</a>|
+|Sheets API (WIP)|[sheets.artistgrid.cx](https://sheets.artistgrid.cx)|API that pulls from TrackerHub|
 |Monitor|[monitor.artistgrid.cx](https://monitor.artistgrid.cx)|Archives page and sends a message to a webhook if content changes|
 |Assets CDN|[assets.artistgrid.cx](https://assets.artistgrid.cx)|Static media and images used by other services|
 
@@ -41,5 +41,4 @@ If you have any contributions to make, such as replacing a broken tracker or cha
 ---
 
 Disclaimer: We are not affiliated with or endorsed by TrackerHub, Google, Cloudflare, or any of the artists featured on our website.
-We do not host or distribute unreleased/leaked music. All content referenced is publicly available and can be found via the linked <a href="https://docs.google.com/spreadsheets/d/1zoOIaNbBvfuL3sS3824acpqGxOdSZSIHM8-nI9C-Vfc/htmlview">Google Sheet</a>.
-###
+We do not host or distribute unreleased/leaked music.
